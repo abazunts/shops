@@ -1,0 +1,13 @@
+.SectionProduct {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 400px;
+    border: 1px solid grey;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
